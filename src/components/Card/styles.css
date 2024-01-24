@@ -1,0 +1,8 @@
+.card{
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-secondary);
+    font-size: 20px;
+    min-height: 200px;
+    padding: 20px;
+    border-radius: 6px;
+}
